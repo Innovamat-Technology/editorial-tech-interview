@@ -1,0 +1,7 @@
+[
+  { "source": "regleta", "target": "number rod" },
+  { "source": "cubo encajable", "target": "linking cube" },
+  { "source": "recta numérica", "target": "number line" },
+  { "source": "tabla del 100", "target": "hundred chart" },
+  { "source": "bloques multibase", "target": "base-ten blocks" }
+]
