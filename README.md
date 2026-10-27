@@ -4,14 +4,14 @@ Repo for the implementation part of the interview.
 
 ## Before the interview
 
-You need Node 22.18 or later and [pnpm](https://pnpm.io/installation).
+You need Node 22.18 or later and npm (bundled with Node).
 
 ```sh
-pnpm install
-pnpm test
+npm install
+npm test
 ```
 
-If `pnpm test` passes, you're ready. If something fails, let us know before the interview.
+If `npm test` passes, you're ready. If something fails, let us know before the interview.
 
 ## What's inside
 
